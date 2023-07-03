@@ -1,0 +1,10 @@
+.idea
+target/
+
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+*.iml
